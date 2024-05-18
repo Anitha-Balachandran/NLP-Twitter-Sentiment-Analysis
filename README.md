@@ -14,8 +14,8 @@ This mini-project involves building a sentiment analysis model for Twitter tweet
    - Trained and validated these models using the prepared dataset to achieve accurate sentiment prediction.
 
 3. Evaluation and Optimization:
-   - Evaluated the performance of each model using metrics like F1 score, accuracy, and precision-recall curves.
-   - Optimized the best-performing model by fine-tuning hyperparameters and adjusting preprocessing techniques.
+   - Evaluated the performance of each model using metrics like F1 score, accuracy.
+   - Optimized the best-performing model by fine-tuning hyperparameters and checking learning curves and adjusting preprocessing techniques.
 
 
 ## Prerequisites for Vector Representations:
