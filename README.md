@@ -40,7 +40,7 @@ Before implementing the sentiment analysis model, ensure that you have downloade
 ## Results:
 The table below summarizes the weighted F1 scores obtained for various model combinations explored during the sentiment analysis task.
 
-<img width="933" alt="image" src="https://github.com/Anitha-Balachandran/NLP-Twitter-Sentiment-Analysis/assets/143915040/c86132cb-ac2f-42b8-857b-59354ae99f5e">
+<img width="333" alt="image" src="https://github.com/Anitha-Balachandran/NLP-Twitter-Sentiment-Analysis/assets/143915040/c86132cb-ac2f-42b8-857b-59354ae99f5e">
 
 ## Conclusion:
 This mini-project demonstrates the process of building a sentiment analysis model for Twitter tweets using a combination of preprocessing techniques, numerical representations, and sequential models. The goal is to develop an accurate sentiment classifier, contributing to the field of natural language processing and sentiment analysis.
