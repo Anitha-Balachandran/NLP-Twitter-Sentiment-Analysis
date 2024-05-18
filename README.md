@@ -9,7 +9,7 @@ This mini-project involves building a sentiment analysis model for Twitter tweet
    - Performed data cleaning and preprocessing steps, including tokenization, stopword removal, HTML tag stripping, lowercase conversion, and lemmatization/stemming.
 
 2. Model Building:
-   - Implemented multiple numerical representations for text data, such as TF-IDF, Word2Vec, GloVe, and ELMo embeddings.
+   - Implemented multiple numerical representations for text data, such as TF-IDF, Word2Vec, GloVe, BERT and ELMo embeddings.
    - Explored different sequential models like RNN, LSTM, GRU, and BiLSTM for sentiment classification.
    - Trained and validated these models using the prepared dataset to achieve accurate sentiment prediction.
 
